@@ -9,8 +9,11 @@ Dealing with data in Schematic Layer
 Abiding by Medallion Architecture I have Curated the Output VIA Following Steps 
 
 BRONZE STAGE : Ingest the RAW JSON & CSV Version of Files onto the DBT Tool
+
 SILVER STAGE : Perform Data Filtering & Condition Checks 
+
 GOLD STAGE : Curate Next Iteration of Transformation for Final Output by Aggregation 
+
 PLATINUM STAGE : Schematic BI & DS(AI/ML) ready Data obtained as OUTPUT in Tabular Format 
 
 
